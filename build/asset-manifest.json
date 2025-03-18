@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.15fe6331.css",
+    "main.js": "./static/js/main.50a89e5a.js",
+    "static/media/Project2.png": "./static/media/Project2.caaca6c5ff60332232c4.png",
+    "static/media/Project1.png": "./static/media/Project1.29e8c3be215d00561511.png",
+    "static/media/SaiVenkataRao.jpg": "./static/media/SaiVenkataRao.69b1615fb2a84b223a54.jpg",
+    "static/media/SRM_logo.png": "./static/media/SRM_logo.ddb598e30f7dde2e8b3d.png",
+    "static/media/ucf-main-logo.png": "./static/media/ucf-main-logo.0c648a15bcb7f90fb51d.png",
+    "static/media/Sai_Venkata_Rao-Resume.pdf": "./static/media/Sai_Venkata_Rao-Resume.28733fb0fd86b77a7c20.pdf",
+    "static/media/ucf-logo.png": "./static/media/ucf-logo.73d39fa56eb5bb27832f.png",
+    "static/media/highradius-white-logo.png": "./static/media/highradius-white-logo.4e6f25ea5c8c55d89f33.png",
+    "index.html": "./index.html",
+    "main.15fe6331.css.map": "./static/css/main.15fe6331.css.map",
+    "main.50a89e5a.js.map": "./static/js/main.50a89e5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15fe6331.css",
+    "static/js/main.50a89e5a.js"
+  ]
+}

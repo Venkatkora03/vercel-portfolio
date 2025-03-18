@@ -10,7 +10,7 @@ import GetInTouch from "./components/GetInTouch";
 
 function App() {
   return (
-    <Router basename="/personal-portfolio">
+    <Router basename="/">
       <TopNav />
       <Routes>
         <Route path="/" element={<Home />} />
